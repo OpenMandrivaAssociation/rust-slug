@@ -1,0 +1,8 @@
+--- slug-0.1.4/Cargo.toml	1970-01-01T00:00:00+00:00
++++ slug-0.1.4/Cargo.toml	2019-05-31T09:34:12.172710+00:00
+@@ -22,4 +22,4 @@
+ license = "MIT/Apache-2.0"
+ repository = "https://github.com/Stebalien/slug-rs"
+ [dependencies.deunicode]
+-version = "0.4.0"
++version = "1"
